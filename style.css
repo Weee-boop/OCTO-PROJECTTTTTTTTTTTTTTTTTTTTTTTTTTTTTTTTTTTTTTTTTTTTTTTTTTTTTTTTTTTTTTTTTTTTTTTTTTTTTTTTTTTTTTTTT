@@ -1,6 +1,6 @@
 body {
   font-family: 'Special Elite', cursive;
-  background-color: #4DD0E1;
+  background-color: #e1b94d;
 }
 
 .header_div
@@ -15,7 +15,7 @@ body {
 }
 
 .main_div {
-  background: blueviolet;
+  background: rgb(194, 146, 43);
   padding: 10px;
   margin-top: 15px;
   border: 3px solid white; 
@@ -66,7 +66,7 @@ box-shadow: 5px 5px 18px white;
 .copy_right_footer
 {
 position: fixed;
-border: rgba(216, 191, 216, 0.822);
+border: rgba(226, 163, 80, 0.822);
 bottom: 0;
 width: 100%;
 background-color: whitesmoke;
